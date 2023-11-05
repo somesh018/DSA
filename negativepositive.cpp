@@ -31,6 +31,5 @@ int main()
     arr.push_back(6);
     arr.push_back(-5);
 
-    int result = posneg(arr, 6);
     return 0;
 }
